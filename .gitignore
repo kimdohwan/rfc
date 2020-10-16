@@ -1,4 +1,7 @@
-### Linux ###
+### Test/Tmp File ###
+test_*
+
+### Pycharm ###
 .idea
 
 ### Linux ###
